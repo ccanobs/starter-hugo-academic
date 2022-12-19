@@ -28,15 +28,17 @@ organizations:
     url: https://www.uoc.edu/portal/en/index.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Contemporary Philosophy (ongoing)
+      institution: Universitat Oberta de Catalunya
+    - course: PhD in Information and Communication Technologies
+      institution: Universitat Pompeu Fabra
+      year: 2011
+    - course: MSc in Information and Communication Technologies
+      institution: Universitat Pompeu Fabra
+      year: 2007
+    - course: Higher Diploma in Telecommunications
+      institution: Universitat Politècnica de Catalunya
+      year: 2006
 superuser: true
 status:
   icon: ☕️
