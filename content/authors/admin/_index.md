@@ -1,7 +1,7 @@
 ---
 title: Cristina Cano
 role: "Professora Agregada "
-avatar_filename: img_20210512_170020-01-1-.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
