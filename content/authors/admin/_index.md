@@ -1,9 +1,8 @@
 ---
 title: Cristina Cano
-role: Professora Agregada Universitat Oberta de Catalunya
+role: "Professora Agregada "
 avatar_filename: img_20210512_170020-01-1-.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -52,6 +51,5 @@ highlight_name: true
 first_name: Alice
 email: ccanobs@gmail.com
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I hold a Ph.D. (2011) in Information, Communication and Audiovisual Media Technologies from the Universitat Pompeu Fabra (UPF). I have been a research fellow in the Hamilton Institute of the National University of Ireland, Maynooth (2012-2014), in Trinity College Dublin (2015-2016) and in Inria- Lille in France (first half of 2016). Currently, I am an associate professor at the WINE research group of the Universitat Oberta de Catalunya (UOC). In August 2016, I featured the list "10 Women in Networking/Communications That You Should Watch" of the N2Women organisation. My research interests include coexistence of wireless heterogeneous networks and distributed resource allocation.
 {style="text-align: justify;"}
