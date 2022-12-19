@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitat Oberta de Catalunya
+    url: https://www.uoc.edu/portal/en/index.html
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -50,7 +50,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: ccanobs@gmail.com
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
