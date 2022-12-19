@@ -1,5 +1,5 @@
 ---
-title: Cristina Cano
+title: Cristina Canor
 role: "Professora Agregada "
 avatar_filename: avatar.jpg
 bio: ""
